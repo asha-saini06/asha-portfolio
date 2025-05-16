@@ -32,7 +32,7 @@ export const Projects = () => {
               <div className="flex justify-between items-center">
                 <a
                   href="https://github.com/asha-saini06/forecastify"
-                  className="text-emerald-400 hover:text-emerald-300 transition-colors my-4"
+                  className="text-emerald-400 hover:text-emerald-300 transition-colors my-4" target="_blank" 
                 >
                   View Project →
                 </a>
@@ -58,7 +58,7 @@ export const Projects = () => {
               <div className="flex justify-between items-center">
                 <a
                   href="https://github.com/asha-saini06/relay-chat-app"
-                  className="text-emerald-400 hover:text-emerald-300 transition-colors my-4"
+                  className="text-emerald-400 hover:text-emerald-300 transition-colors my-4" target="_blank" 
                 >
                   View Project →
                 </a>
@@ -84,7 +84,7 @@ export const Projects = () => {
               <div className="flex justify-between items-center">
                 <a
                   href="https://github.com/asha-saini06/instagram-clone"
-                  className="text-emerald-400 hover:text-emerald-300 transition-colors my-4"
+                  className="text-emerald-400 hover:text-emerald-300 transition-colors my-4" target="_blank" 
                 >
                   View Project →
                 </a>
@@ -110,7 +110,7 @@ export const Projects = () => {
               <div className="flex justify-between items-center">
                 <a
                   href="https://github.com/asha-saini06/ShopEase"
-                  className="text-emerald-400 hover:text-emerald-300 transition-colors my-4"
+                  className="text-emerald-400 hover:text-emerald-300 transition-colors my-4" target="_blank" 
                 >
                   View Project →
                 </a>
