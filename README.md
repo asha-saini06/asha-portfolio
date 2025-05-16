@@ -74,6 +74,6 @@ npm run build
 
 Got an opportunity or feedback? Let’s connect!
 
-- **Portfolio:** [/asha-portfolio](https://asha-saini06.github.io/asha-portfolio/)
-- **GitHub:** [@asha-saini06](https://github.com/asha-saini06)
-- **Email:** Reach out via the [Contact Form](https://asha-portfolio.vercel.app/#contact)
+- Portfolio:<a href="https://asha-saini06.github.io/asha-portfolio/" target="_blank" rel="noopener noreferrer">/asha-portfolio</a>
+- GitHub:<a href="https://github.com/asha-saini06" target="_blank" rel="noopener noreferrer">@asha-saini06</a>
+- Email: Reach out via the <a href="https://asha-saini06.github.io/asha-portfolio/#contact" target="_blank" rel="noopener noreferrer">Contact Form</a>
